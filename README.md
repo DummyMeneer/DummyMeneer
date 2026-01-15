@@ -1,4 +1,5 @@
-![alt text]([https://github.com/DummyMeneer/Dummymeneer/blob/Main/Banner.png?raw=true](https://github.com/DummyMeneer/DummyMeneer/blob/main/Banner.png?raw=true))
+<img width="1032" height="356" alt="image" src="https://github.com/user-attachments/assets/0eb0fa8e-15bf-499d-97ae-5675df228733" />
+
 # 👋 Hi, I'm **Dummymeneer**
 Welcome to my GitHub profile!  
 This repository space is used for my **classes and educational materials**.
